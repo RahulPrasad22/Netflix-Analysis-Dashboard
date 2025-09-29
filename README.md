@@ -20,4 +20,14 @@ To understand global content distribution and trends on Netflix to support strat
 - **Geographical Reach**: US and India emerge as top contributors, guiding market-specific content strategy.
 - **Growth Trend:** Significant surge in titles post-2016 suggests aggressive expansion in recent years.
 
+# Visualization techniques used :
+- Geographical Heatmap to depict total titles by country.
+- Stacked Area Chart to show yearly growth in movies and TV shows.
+- Bar Charts for ratings and genre rankings.
+- Bubble Chart for quick comparison of Movies vs. TV Shows distribution.
+
 # Dashboard :
+- - <a href="https://public.tableau.com/shared/C8FNXP8WZ?:display_count=n&:origin=viz_share_link">View-my-Dashboard</a>
+
+# Conclusion :
+The Tableau dashboard reveals Netflix’s strong growth trajectory and strategic focus on mature audience content and diverse genres. These insights can guide portfolio optimization by aligning future investments with high-demand genres and top-performing regions while maintaining a balanced movie/TV show mix.
