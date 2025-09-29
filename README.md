@@ -1,2 +1,6 @@
 # Netflix-Analysis-Dashboard
-A Tableau-driven dashboard providing actionable insights into Netflix’s global content distribution, audience ratings, genre trends, and growth patterns to support strategic content and market decisions.
+
+# Objective :
+To understand global content distribution and trends on Netflix to support strategic decisions on content acquisition and market expansion.
+
+# Data Set Used :
